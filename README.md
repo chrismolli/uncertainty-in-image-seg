@@ -2,7 +2,9 @@
 
 Experimenting with Uncertainty Quantification in Image Segmentation Tasks. The project is based on the [Satellite Images of Water Bodies](https://www.kaggle.com/christianmolliere/uncertainty-quantification-of-image-segmentation/data) dataset, which is available on Kaggle.
 
-<img src="https://github.com/chrismolli/uncertainty-in-image-seg/raw/main/img/ex4.png" align="center" width="512">
+<p align="center">
+  <img src="https://github.com/chrismolli/uncertainty-in-image-seg/raw/main/img/ex4.png" align="center" width="512">
+</p>
 
 ## TL;DR
 The predictive uncertainty of a model let's us take insight in the confidence of a model's inference. This enables us to build safer ML systems, and makes entailing decisions more transparent by giving explicit information on how well the input data has been represented during training.
